@@ -15,6 +15,8 @@ _You might have to control-click on the app icon and then press "open" in order 
 
 Please provide feedback using the [feedback form](https://forms.office.com/r/PskU0SX6Um) after you have used the app!
 
+- James Chang
+
 ## License
 
 MIT
