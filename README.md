@@ -12,12 +12,15 @@
 
 > _An app to help students schedule their classes, organize their daily tasks, and plan out future events_
 
+[![](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&releaseDate=1615852800)](https://apps.apple.com/us/app/scheduler-james-chang/id6449955070?mt=12)
+
+Requires iOS 16 and macOS 13 or later.
+
 ## What is Scheduler?
 
 Scheduler is an app that I initially designed and created during the beginning of this school year (22-23). I found the schedule to be unnecessarily complicated and hard to follow at first, so I decided to create a small program to tell me what classes I have on each day. That app quickly expanded into a full-on productivity app that now includes a calendar, todo-list, and a notes area. I hope that this app will be able to benefit rising freshmen and new students coming to PXHS just as much as I benefited from it!
 
 – James Chang (6.8.2023)
-
 
 ### Why scheduler is better than other apps:
 
@@ -27,7 +30,6 @@ Scheduler is an app that I initially designed and created during the beginning o
 
 Moreover, Scheduler was created by myself independently, so any suggestions or changes can be implemented instantly.
 
-
 ### App features:
 
 - A dashboard that shows the classes that you have for each block on any day
@@ -35,20 +37,7 @@ Moreover, Scheduler was created by myself independently, so any suggestions or c
 - A tasks and events list for you to plan out your day
 - A notes page for you to write down important snippets throughout your day
 
-
 I would like to thank Mr. McMillan for his continuous support and guidance during the many challenges of publishing this app, as well as Mrs. Leet for supporting my initial idea and helping me start this entire process. I would also like to thank everyone who gave me feedback about the app during the early stages of development!
-
-## Downloading the app
-
-Newest version of iOS app: **Unreleased (in development)**
-
-Newest version of macOS app: **1.0.1**; click [here](https://apps.apple.com/us/app/scheduler-james-chang/id6449955070?mt=12) to download the app through the app store.
-
-## Requirements
-
-Minimum iOS version: **16.0**
-
-Minimum macOS version: **13.0** (macOS Ventura)
 
 ## Support
 
