@@ -3,9 +3,12 @@
 ## 1.0.2 - Unreleased
 
 ### Changes:
-- Revamped the UI of the toolbar
-- Increased the size and legibility of buttons and text in the dashboard
-- Removed the process of entering in a username (as it was not needed)
+- The toolbar UI is revamped to follow modern neumorphism design trends
+- The size of buttons and text in the dashboard is increased for legibility
+- The process of entering in a username is removed (as it was not needed)
+
+### New:
+- Users can now pick from the native color picker when choosing a theme color for the app
 
 ## 1.0.1 - Jun 9, 2023
 
