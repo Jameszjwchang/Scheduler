@@ -1,24 +1,61 @@
-SchedulerApp
-=======
+# Scheduler
 
-*_An app to help people organise their daily tasks and events_*
+<p align="center" width="100%">
+    <img width="128" alt="mac1024" src="https://github.com/Jameszjwchang/SchedulerApp/assets/120231221/8d6968d1-aed7-4801-96eb-3542e6fe871e">
+</p>
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/120231221/233260764-01a8acf0-28f7-4d40-9007-b1434981da9d.png">
+<p align="center" width="100%">
+    <img width="49%" src="https://github.com/Jameszjwchang/SchedulerApp/assets/120231221/0d899fe7-8ab6-415c-826d-07c2d68c88d7"> 
+    <img width="49%" src="https://github.com/Jameszjwchang/SchedulerApp/assets/120231221/1d664e9c-7168-4c17-92bc-1435029ee71d"> 
+</p>
 
-**Current Latest Version: 0.9.4 (Beta (hopefully last beta))**
 
-Please download the zip file (in the files section or link below) in order to use the use the app.
+> _An app to help students schedule their classes, organize their daily tasks, and plan out future events_
 
-Link to download app: [Scheduler.app](https://raw.githubusercontent.com/Jameszjwchang/SchedulerApp/main/Scheduler%200.9.4%20(6).zip)
+## What is Scheduler?
 
-_You might have to control-click on the app icon and then press "open" in order to use the app_
+Scheduler is an app that I initially designed and created during the beginning of this school year (22-23). I found the schedule to be unnecessarily complicated and hard to follow at first, so I decided to create a small program to tell me what classes I have on each day. That app quickly expanded into a full-on productivity app that now includes a calendar, todo-list, and a notes area. I hope that this app will be able to benefit rising freshmen and new students coming to PXHS just as much as I benefited from it!
 
-Please provide feedback using the [feedback form](https://forms.office.com/r/PskU0SX6Um) after you have used the app!
+– James Chang (6.8.2023)
 
-– James Chang
+
+### Why scheduler is better than other apps:
+
+- Specifically built for SAS PXHS's scheduling system
+- Does not require an internet connection
+- Built with apple's native coding language (results in a smoother experience)
+
+Moreover, Scheduler was created by myself independently, so any suggestions or changes can be implemented instantly.
+
+
+### App features:
+
+- A dashboard that shows the classes that you have for each block on any day
+- A calendar that displays the events that you have entered
+- A tasks and events list for you to plan out your day
+- A notes page for you to write down important snippets throughout your day
+
+
+I would like to thank Mr. McMillan for his continuous support and guidance during the many challenges of publishing this app, as well as Mrs. Leet for supporting my initial idea and helping me start this entire process. I would also like to thank everyone who gave me feedback about the app during the early stages of development!
+
+## Downloading the app
+
+Newest version of iOS app: **Unreleased (in development)**
+
+Newest version of macOS app: **1.0.1**; click [here](https://apps.apple.com/us/app/scheduler-james-chang/id6449955070?mt=12) to download the app through the app store.
+
+## Requirements
+
+Minimum iOS version: **16.0**
+
+Minimum macOS version: **13.0** (macOS Ventura)
+
+## Support
+
+Email for support, feedback, or general questions: james01px2026@saschina.org
 
 ## License
 
-MIT
+[MIT License](https://github.com/Jameszjwchang/SchedulerApp/blob/main/LICENSE)
 
 ---
