@@ -9,12 +9,9 @@
     <img width="49%" src="https://github.com/Jameszjwchang/SchedulerApp/assets/120231221/1d664e9c-7168-4c17-92bc-1435029ee71d"> 
 </p>
 
+[![](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1615852800)](https://apps.apple.com/us/app/scheduler-james-chang/id6449955070?mt=12)
 
-> _An app to help students schedule their classes, organize their daily tasks, and plan out future events_
-
-[![](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&releaseDate=1615852800)](https://apps.apple.com/us/app/scheduler-james-chang/id6449955070?mt=12)
-
-Requires iOS 16 and macOS 13 or later.
+> Requires iOS 16 and macOS 13 or later.
 
 ## What is Scheduler?
 
